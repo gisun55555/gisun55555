@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=00FF00&height=160&section=header&text=gisun%27s%20github&fontSize=38)
+<h2>안녕하세요 프론트엔드를 희망하는 오기선입니다.</h2>
 
 
 ## Experience

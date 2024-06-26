@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=00FF00&height=160&section=header&text=gisun's%20github&fontSize=38)
+![header](https://capsule-render.vercel.app/api?type=venom&color=00FF00&height=160&section=header&text=gisun%27s%20github&fontSize=38)
+
 
 ## Experience
 💻 SSAFY (삼성 청년 SW 아카데미) 10기 (2023.07 ~ 2024.06) 

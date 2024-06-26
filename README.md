@@ -1,38 +1,35 @@
-<div align ="center">
-        <h2>
-          안녕하세요 오기선입니다.👏
-        </h2>
-    <div>
-      <h3> ✨ Front-end Stack ✨</h3>  
-      <div>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-      </div>
-    </div>
-  <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  </div>
-    <div>
-      <h3> 🛠 Cowork tools 🛠 </h3>
-      <div>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      </div>
-    </div>
-    </br>
-    </br>
-    </br>
-     <div>
-    <div>
-        
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisun55555&layout=compact)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pakox123)](https://solved.ac/pakox123/)
-  
+![header](https://capsule-render.vercel.app/api?type=venom&color=00FF00&height=160&section=header&text=gisun's%20github&fontSize=38)
 
+## Experience
+💻 SSAFY (삼성 청년 SW 아카데미) 10기 (2023.07 ~ 2024.06) 
+💻 솔트록스이노베이션 - 국민비서 챗봇 큐레이션 (2021.11 ~ 2023.01)  
+🎓 조선대학교 신소재공학과 졸업 (2016.03 ~ 2022.02) 
 
-      
-  </div>
-</div>
+<br />
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td>Languages</td>
+    <td>Javascript, Typescript, Python</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>React, Vue</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Django</td>
+  </tr>
+  <tr>
+    <td>Tools</td>
+    <td>Git, Github, Jira, Notion, Figma  </td>
+  </tr>
+</table>
+
+<br />
+
+## Awards
+🏆 삼성 청년 SW 아카데미 자율 프로젝트 우수상 (2024.05)  
+🏆 삼성 청년 SW 아카데미 특화 프로젝트 우수상 (2024.03)  

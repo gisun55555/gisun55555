@@ -3,7 +3,6 @@
         <h2>
           안녕하세요 오기선입니다.👏
         </h2>
-    </div>
     <div>
       <h3> ✨ Front-end Stack ✨</h3>  
       <div>

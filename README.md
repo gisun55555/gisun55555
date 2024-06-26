@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align ="center">
+    <div>
+        <h2>
+          안녕하세요 오기선입니다.👏
+        </h2>
+    </div>
+    <div>
+      <h3> ✨ Front-end Stack ✨</h3>  
+      <div>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      </div>
+    </div>
+  <div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  </div>
+    <div>
+      <h3> 🛠 Cowork tools 🛠 </h3>
+      <div>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      </div>
+    </div>
+    </br>
+    </br>
+    </br>
+     <div>
+    <div>
+        
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pakox123)](https://solved.ac/pakox123/)
+  
 
-<!--
-**gisun55555/gisun55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      
+  </div>
+</div>

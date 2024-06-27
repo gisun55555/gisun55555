@@ -2,6 +2,7 @@
 사용자에 입장이 되어 필요한 서비스를 개발합니다.<br />
 기술적인 부분에 도전하는걸 즐깁니다.<br />
 커뮤니케이션 시 의견을 존중하며 함께하기 위해 노력합니다.
+<br /><br />
 
 ## 📚 Experience
 💻 SSAFY (삼성 청년 SW 아카데미) 10기 (2023.07 ~ 2024.06)<br />
@@ -37,7 +38,7 @@
 🏆 삼성 청년 SW 아카데미 자율 프로젝트 우수상 (2024.05)  
 🏆 삼성 청년 SW 아카데미 특화 프로젝트 우수상 (2024.03)  
 
-<br />
+<br /><br />
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisun55555&layout=compact)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pakox123)](https://solved.ac/pakox123/)

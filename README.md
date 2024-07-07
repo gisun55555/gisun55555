@@ -36,15 +36,15 @@
 
 ## 🏆 Awards
 🏆 삼성 청년 SW 아카데미 자율 프로젝트 우수상 (2024.05)  
-🏆 삼성 청년 SW 아카데미 특화 프로젝트 우수상 (2024.03)  
+🏆 삼성 청년 SW 아카데미 특화 프로젝트 우수상 (2024.04)  
 
 
 ## 📁 Project
 |Period|Project|Category|
 |------|---|---|
-|2024.04 ~ 2024.05| 블록체인을 이용한 부동산 직거래 BAPP, [**블록홈즈**](https://github.com/gisun55555/block-homes) |Web App|
-|2024.02 ~ 2024.04| 빅데이터 기반 일본어 회화 학습, [**토키도키**](https://github.com/gisun55555/Talkydoki) |Web App|
-|2024.01 ~ 2024.02| 갤러리와 함께하는 역사시간, [**갤역시**](https://github.com/gisun55555?tab=repositories) | App|
+|2024.04 ~ 2024.05| 🏆 블록체인을 이용한 부동산 직거래 BAPP, [**블록홈즈**](https://github.com/gisun55555/block-homes) |Web App|
+|2024.03 ~ 2024.04| 🏆 빅데이터 기반 일본어 회화 학습, [**토키도키**](https://github.com/gisun55555/Talkydoki) |Web App|
+|2024.01 ~ 2024.02| 갤러리와 함께하는 역사시간, [**갤역시**](https://github.com/gisun55555/Galyuxy) | App|
 
 <br /><br />
 

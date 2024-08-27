@@ -39,11 +39,11 @@
 🏆 삼성 청년 SW 아카데미 특화 프로젝트 우수상 (2024.04)  
 
 <br />
-
+ ㅠhttps://github.com/Yunjuchan/kb-ai-challenge
 ## 📁 Project
 |Period|Project|Category|
 |------|---|---|
-|2024.08 ~ 2024.08| 출퇴근하는 직작인을 위한 금융비서, [**블록홈즈**](https://github.com/Gamzas/block-homes) |Web App|
+|2024.08 ~ 2024.08| 출퇴근하는 직작인을 위한 금융비서, [**DRIVE AI**](https://github.com/Yunjuchan/kb-ai-challenge) |Web App|
 |2024.04 ~ 2024.05| 🏆 블록체인을 이용한 부동산 직거래 BAPP, [**블록홈즈**](https://github.com/Gamzas/block-homes) |Web App|
 |2024.03 ~ 2024.04| 🏆 빅데이터 기반 일본어 회화 학습, [**토키도키**](https://github.com/gisun55555/Talkydoki) |Web App|
 |2024.01 ~ 2024.02| 갤러리와 함께하는 역사시간, [**갤역시**](https://github.com/gisun55555/Galyuxy) | App|

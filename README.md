@@ -48,7 +48,7 @@
 | 2024.01 ~ 2024.02 | 갤러리와 함께하는 역사시간, [**갤역시**](https://github.com/gisun55555/Galyuxy) | App |
 
 
-[My Portfolio](https://www.canva.com/design/DAGLaja6Rno/3oqEAq2QHlYqwrco1iTcNA/edit)
+[My Portfolio](https://www.canva.com/design/DAGLaja6Rno/I8UJ2rbICL0tSuEhHPH16Q/view?utm_content=DAGLaja6Rno&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <br /><br />
 

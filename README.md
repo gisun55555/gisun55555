@@ -5,6 +5,7 @@
 <br /><br />
 
 ## 📚 Experience
+💻 코드잇 프론트엔드 심화 7기 (2025.01 ~ 2025.03)<br />
 💻 SSAFY (삼성 청년 SW 아카데미) 10기 (2023.06 ~ 2024.06)<br />
 💻 솔트록스이노베이션 - 국민비서 챗봇 큐레이션 (2021.11 ~ 2023.02)  
 🎓 조선대학교 신소재공학과 졸업 (2016.03 ~ 2022.02) 
@@ -20,7 +21,7 @@
   </tr>
   <tr>
     <td>Frontend</td>
-    <td>React, Vue</td>
+    <td>Next(App router), React, Vue</td>
   </tr>
   <tr>
     <td>Backend</td>

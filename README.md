@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Tools</td>
-    <td>Git, Github, Jira, Notion, Figma  </td>
+    <td>Cursor, Git, Github, Jira, Notion, Figma  </td>
   </tr>
 </table>
 
